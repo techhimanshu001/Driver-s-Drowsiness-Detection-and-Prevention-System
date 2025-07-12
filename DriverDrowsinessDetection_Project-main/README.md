@@ -18,15 +18,6 @@ It works in real-time using a webcam feed, continuously scanning facial landmark
 - dlib (optional for facial landmarks)
 - NumPy
 
-## 📚 Academic Information
-This is a **college-level project** developed as part of our coursework at **GL Bajaj Institute of Technology and Management**.
-
-## 👨‍💻 Team Members
-- **Gajender Singh Chauhan**
-- **Kartik Parashar**
-- **Kavyansh Rohela**
-- **Priyanshu Singh**
-
 ## 📌 How It Works
 1. Capture real-time video using the webcam
 2. Detect face and eye regions using trained classifiers
